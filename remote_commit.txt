@@ -7,4 +7,4 @@
    If error comes then it will ask
    Username - sagar singh
    Password - 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
-6. Now, commit will be push to remote github
+6. Now commit will be push to remote github.
